@@ -1,4 +1,4 @@
 # one-d-cellular-automaton
 
-- Use node js
+- required node js
 - create ur own html 👍
